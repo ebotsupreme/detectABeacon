@@ -67,6 +67,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
             update(distance: .unknown)
         }
     }
-
+    
+    // TODO
+    // challenge 22 - need real device / ipad
 }
 
